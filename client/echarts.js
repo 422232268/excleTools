@@ -1,8 +1,8 @@
 /*
  * @Author: za-wangxuezhong
  * @Date: 2019-11-07 23:00:08
- * @LastEditors: za-wangxuezhong
- * @LastEditTime: 2019-11-10 23:57:14
+ * @LastEditors  : za-wangxuezhong
+ * @LastEditTime : 2020-01-08 13:41:51
  * @Description: file content
  */
 import React, { memo } from 'react'
@@ -23,9 +23,9 @@ class echarts extends React.Component{
                     className='react_for_echarts' />
             </div>
         );
-    }
+    };
     async componentDidMount() {
-
+        // todo
     }
 }
 
